@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/linkedin-clone/static/css/main.fa265a7b.chunk.css",
+    "main.css": "/linkedin-clone/static/css/main.10325feb.chunk.css",
     "main.js": "/linkedin-clone/static/js/main.92dca759.chunk.js",
     "main.js.map": "/linkedin-clone/static/js/main.92dca759.chunk.js.map",
     "runtime-main.js": "/linkedin-clone/static/js/runtime-main.702ce0dc.js",
@@ -8,7 +8,7 @@
     "static/js/2.493f0c87.chunk.js": "/linkedin-clone/static/js/2.493f0c87.chunk.js",
     "static/js/2.493f0c87.chunk.js.map": "/linkedin-clone/static/js/2.493f0c87.chunk.js.map",
     "index.html": "/linkedin-clone/index.html",
-    "static/css/main.fa265a7b.chunk.css.map": "/linkedin-clone/static/css/main.fa265a7b.chunk.css.map",
+    "static/css/main.10325feb.chunk.css.map": "/linkedin-clone/static/css/main.10325feb.chunk.css.map",
     "static/js/2.493f0c87.chunk.js.LICENSE.txt": "/linkedin-clone/static/js/2.493f0c87.chunk.js.LICENSE.txt",
     "static/media/cover.b12d7f95.jpg": "/linkedin-clone/static/media/cover.b12d7f95.jpg",
     "static/media/crescentpark.592b4bd5.jpg": "/linkedin-clone/static/media/crescentpark.592b4bd5.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.702ce0dc.js",
     "static/js/2.493f0c87.chunk.js",
-    "static/css/main.fa265a7b.chunk.css",
+    "static/css/main.10325feb.chunk.css",
     "static/js/main.92dca759.chunk.js"
   ]
 }
